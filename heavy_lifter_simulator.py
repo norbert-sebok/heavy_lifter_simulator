@@ -1,9 +1,9 @@
 """HeavyLifter Simulator
 
 Usage:
-  simulator.py <path>
-  simulator.py -h | --help
-  simulator.py --version
+  heavy_lifter_simulator.py <path>
+  heavy_lifter_simulator.py -h | --help
+  heavy_lifter_simulator.py --version
 
 Options:
   -h --help     Show this screen
