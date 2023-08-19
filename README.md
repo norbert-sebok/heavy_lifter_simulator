@@ -12,11 +12,11 @@ Install the requirements:
 
 Run the simulator to see the usage:
 
-    $ python simulator.py
+    $ python heavy_lifter_simulator.py
 
 Run the simulator with a given instruction set:
 
-    $ python simulator.py doc/instruction_set_simple.txt
+    $ python heavy_lifter_simulator.py doc/instruction_set_simple.txt
     Initial state:
      1: PAK
      2: UQ
